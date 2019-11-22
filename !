@@ -1,0 +1,7 @@
+#include<stdio.h>
+int main()
+{
+	printf("%.2s\n",Indian);
+//	printf("%x\n",a);
+return 0;
+}
